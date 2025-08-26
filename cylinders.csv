@@ -1,0 +1,5 @@
+OrderNumber,CurrentID,NeededID,OvenNumber,EstimatedDuration,Operator,Material,Thickness,LoadTime,UnloadTime
+5,23,2,Oven 1,60,gm,hi val,0.6,2025-08-26 09:26:35.149530,2025-08-26 09:28:34.077773
+6,4,3,Oven 1,60,gm,hi val,0.7999999999999999,2025-08-26 09:27:29.758570,
+10323,4,3,Oven 2,2,gm,hi val,0.7999999999999999,2025-08-26 09:27:46.977606,2025-08-26 09:47:55.225609
+123,15,13,Oven 2,2,gm,hi val,0.2,2025-08-26 09:48:30.009304,
